@@ -7,3 +7,12 @@ Este proyecto se centra en la detección y seguimiento de patos en un video util
  patos en tiempo real. La calibración de la cámara se realiza a partir de una imagen de
  referencia que contiene un patrón conocido, en este caso siendo las lozas que aparecen en el
  piso del video.
+
+ Nuestro entregable se divide en diferentes códigos.
+ 
+ 1) Código para la detección de los patos y su tracking
+    
+ 2) 2códigos para la creación del modelo del pato. El primer código para analizar y
+ generar los datos del modelo y el segundo código para abrir estos datos.
+
+ 3) Código para la recreación del camarman movement.
