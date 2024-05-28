@@ -12,7 +12,7 @@ Este proyecto se centra en la detección y seguimiento de patos en un video util
  
  1) Código para la detección de los patos y su tracking
     
- 2) 2códigos para la creación del modelo del pato. El primer código para analizar y
+ 2) 2 códigos para la creación del modelo del pato. El primer código para analizar y
  generar los datos del modelo y el segundo código para abrir estos datos.
 
  3) Código para la recreación del camarman movement.
