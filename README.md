@@ -1,12 +1,6 @@
-# -Visual-Control-of-Duck-Detection-and-Tracking-System
+# -Vision-Based Object Tracking & Distance Estimation with 3D Reconstruction
 
-Este proyecto se centra en la detección y seguimiento de patos en un video utilizando la red
- YOLOv5para la detección de objetos y técnicas de calibración de cámara para calcular la
- distancia de los patos detectados desde la cámara. Se emplea Python con diferentes además
- de la implementación del modelo YOLOv5 preentrenado para identificar y rastrear los
- patos en tiempo real. La calibración de la cámara se realiza a partir de una imagen de
- referencia que contiene un patrón conocido, en este caso siendo las lozas que aparecen en el
- piso del video.
+Developed a real-time object detection and tracking system using YOLOv5 integrated with monocular camera calibration to estimate object distance from a single RGB video. Enhanced perception by incorporating OpenCV-based camera calibration, 3D point cloud generation using Open3D, and trajectory estimation of the moving camera using ORB + BFMatcher. The system included a visualization pipeline and tools for live inference, 3D modeling, and real-time feedback, demonstrating practical applications of computer vision in monocular depth estimation and spatial understanding.
 
  Nuestro entregable se divide en diferentes códigos.
  
